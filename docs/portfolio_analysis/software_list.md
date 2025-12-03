@@ -5,7 +5,7 @@
 While this is intended to be a complete list, it is likely missing some projects.
 Please [suggest an edit](https://github.com/nrel/wetostack/edit/main/docs/portfolio_analysis/software_list.md)
 if any information here is incorrect.
-Including a software in this list requires the following:
+Including if a software in this list requires the following:
 - Entry in [software_attributes/database_list.yaml](https://github.com/NREL/WETOStack/blob/main/software_attributes/database_list.yaml)
 - Entry in [docs/software_list.md](https://github.com/NREL/WETOStack/blob/main/docs/portfolio_analysis/software_list.md)
 - Corresponding YAML file in [software_attributes/database](https://github.com/NREL/WETOStack/tree/main/software_attributes/database)
