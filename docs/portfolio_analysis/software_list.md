@@ -51,7 +51,7 @@ Select one or a combination of categories to down-select projects.
   <a href="https://github.com/exawind"><div class="filterDiv all farm turbine high time exawind">ExaWind</div></a>
   <a href="https://github.com/exawind/amr-wind"><div class="filterDiv all farm high time exawind">AMR-Wind</div></a>
   <a href="https://github.com/exawind/nalu-wind"><div class="filterDiv all turbine high time exawind">NALU-Wind</div></a>
-  <a href="https://github.com/exawind/openturbine"><div class="filterDiv all turbine high time exawind">OpenTurbine</div></a>
+  <a href="https://github.com/kynema/kynema"><div class="filterDiv all turbine high time exawind">kynema</div></a>
   <a href="https://github.com/erf-model/ERF"><div class="filterDiv all farm high time resource">ERF</div></a>
   <a href="https://github.com/sandialabs/pyNuMAD"><div class="filterDiv all component high time">pyNuMAD</div></a>
   <a href="https://github.com/wisdem/weis"><div class="filterDiv all turbine low middle time freq design">WEIS</div></a>
